@@ -4048,7 +4048,7 @@ void main() {
 						lerpBloomFactor(bloomFactors[2]) * vec4(bloomTintColors[2], 1.0) * texture2D(blurTexture3, vUv) +
 						lerpBloomFactor(bloomFactors[3]) * vec4(bloomTintColors[3], 1.0) * texture2D(blurTexture4, vUv) +
 						lerpBloomFactor(bloomFactors[4]) * vec4(bloomTintColors[4], 1.0) * texture2D(blurTexture5, vUv) );
-				}`})}}Hi.BlurDirectionX=new le(1,0);Hi.BlurDirectionY=new le(0,1);const gx=document.querySelector("#app"),ht=i=>`/corporate-site-hud-preview/${i.replace(/^\/+/,"")}`;document.documentElement.style.setProperty("--track-frame-startup",`url("${ht("/assets/generated/track-frame-startup-v2.png")}")`);document.documentElement.style.setProperty("--track-frame-research",`url("${ht("/assets/generated/track-frame-research-v2.png")}")`);gx.innerHTML=`
+				}`})}}Hi.BlurDirectionX=new le(1,0);Hi.BlurDirectionY=new le(0,1);const gx=document.querySelector("#app"),ht=i=>`/corporate-site-hud-preview/${i.replace(/^\/+/,"")}`;document.documentElement.style.setProperty("--track-frame-startup",`url("${ht("/assets/generated/track-frame-startup-v3.png")}")`);document.documentElement.style.setProperty("--track-frame-research",`url("${ht("/assets/generated/track-frame-research-v3.png")}")`);gx.innerHTML=`
   <main class="site-shell">
     <header class="nav">
       <a class="brand" href="#" aria-label="Team Armada home">
